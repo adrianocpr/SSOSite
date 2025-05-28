@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="br">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	<!-- CHARSET -->
+		
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- FAVICON -->
+	<link href="images/favicon.png" rel="shortcut icon" type="image/png">
+
+	<!-- keywords -->
+	<meta name="keywords" content="CDZ The Untamed, cdz private server, cdz online, saint seiya, cavaleiros do zodiaco, game private server, private server, saint seiya online">
+
+	<!-- DESCRIPTION -->
+	<meta name="description" content="Bem-vindo ao CDZ The Untamed , Um Servidor rate média da atualidade, com equipamentos até R20 e 7 Classes disponiveis, jogue na versão 1.5.0 Customizado">
+
+	<!-- TITLE -->
+	<title>Cadastro - CDZ The Untamed</title>
+
+	<!-- STYLE -->
+	<link rel="stylesheet" href="css/fontawesome.css" type="text/css">
+	<link rel="stylesheet" href="css/swiper.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+
+</head>
+
+<!--STYLESHEETS-->
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<!--SCRIPTS-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<!--Slider-in icons-->
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".username").focus(function() {
+		$(".user-icon").css("left","-48px");
+	});
+	$(".username").blur(function() {
+		$(".user-icon").css("left","0px");
+	});
+	
+	$(".password").focus(function() {
+		$(".pass-icon").css("left","-48px");
+	});
+	$(".password").blur(function() {
+		$(".pass-icon").css("left","0px");
+	});
+	
+	
+	$(".email").focus(function() {
+		$(".email-icon").css("left","-48px");
+	});
+	$(".email").blur(function() {
+		$(".email-icon").css("left","0px");
+	});
+});
+
+</script>
+
+</head>
+<body>
+
+
+
+<!--WRAPPER-->
+<div id="wrapper">
+
+	<!--SLIDE-IN ICONS-->
+    <div class="user-icon"></div>
+    <div class="pass-icon"></div>
+    <div class="email-icon"></div>
+    <!--END SLIDE-IN ICONS-->
+
+<!--LOGIN FORM-->
+<form name="login-form" class="login-form" action="registro.php" method="post">
+
+	<!--HEADER-->
+    <div class="header">
+    <!--TITLE--><h1>Cadastro</h1><!--END TITLE-->
+    <!--DESCRIPTION--><span>Preencha o formulário abaixo para acessar no jogo.</span><!--END DESCRIPTION-->
+    </div>
+    <!--END HEADER-->
+	
+	<!--CONTENT-->
+  <div class="content">
+	<p>
+	  <!--LOGIN--><input name="login" id="login" type="text" class="input username" value="Login" onfocus="this.value=''" /><!--LOGIN-->
+	  <!--NOME--><input name="nome" id="nome" type="text" class="input username" value="Nome" onfocus="this.value=''" /><!--NOME-->
+	  <!--SENHA--><input name="senha" id="senha" type="text" class="input password" value="Senha" onfocus="this.value=''" /><!--SENHA-->
+	  <!--R-SENHA--><input name="confsenha" id="confsenha" type="text" class="input password" value="Repite-Senha" onfocus="this.value=''" /><!--R-SENHA-->
+	  <!--EMAIL--><input name="email" id="email" type="text" class="input email" value="E-mail" onfocus="this.value=''" /><!--EMAIL-->
+      <input name="codigo" id="codigo" type="text" class="input rpassword" value="Código" onfocus="this.value=''" />
+	</p>
+	<br />
+    <img align="left" src="captcha/securimage_show.php?sid=<?php echo md5(time()) ?>" />
+    <br />
+    <br />
+	<br />
+    <br />
+    <br />
+    <input type="checkbox" id="accte" name="concordo">* Eu aceito<a href="#" class="link" target="_blank"> os termos de uso.</a>
+    <br />
+    <br />
+	
+  </div>
+    <!--END CONTENT-->
+    
+    <!--FOOTER-->
+    <div class="footer">
+    <!--LOGIN BUTTON--><input type="submit" name="submit" value="Cadastre-se" class="button" /><!--END LOGIN BUTTON-->
+  </div>
+    <!--END FOOTER-->
+
+</form>
+<!--END LOGIN FORM-->
+
+</div>
+<!--END WRAPPER-->
+
+<!--GRADIENT--><!--END GRADIENT-->
+
+</body>
+</html>
