@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="br">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	<!-- CHARSET -->
+		
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- FAVICON -->
+	<link href="images/favicon.png" rel="shortcut icon" type="image/png">
+
+	<!-- keywords -->
+	<meta name="keywords" content="Perfect World, pw server, pw 1.3.6, pw 136, theclassic, theclassicpw, pw, pw history, pw rate media, pw com nirvana, pwbr, levelup, lug, thepw, pw shadow">
+
+	<!-- DESCRIPTION -->
+	<meta name="description" content="Bem-vindo ao Perfect World Cristal, o melhor rate média da atualidade, com equipamentos nirvana UP2 e 5 raças disponiveis, jogue na versão 1.7.2">
+
+	<!-- TITLE -->
+	<title>Perfect World Cristal - 1.7.2</title>
+
+	<!-- STYLE -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/fontawesome.css" type="text/css">
+	<link rel="stylesheet" href="css/swiper.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	
+
+</head>
+<body>
+
+	<div class="wrapper">
+
+		<div class="header-bg">
+			<div class="header-bg__front"></div>
+
+			<div class="header-bg__navigation content-area"></div>
+
+			
+			<div class="header-bg__smokes">
+				<div class="header-bg__smoke smoke_3"></div>
+				<div class="header-bg__smoke smoke_4"></div>
+			</div>
+			
+
+			<div class="header-bg__sparks left">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+
+			<div class="header-bg__sparks center">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+
+			<div class="header-bg__sparks right">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+		</div>
+
+		<nav class="nav">
+			<div class="content-area flex-sc">
+				
+				<div class="nav__open-links">
+					<div class="nav__open-links-item"></div>
+				</div>
+
+				<div class="nav__links flex-sbc">
+					<div class="nav__links-group flex-sc">
+						<div class="nav__links-item"><a href="/">Inicio</a></div>
+						<div class="nav__links-item"><a href="https://discord.gg/u3n6WAAkh4">Discord</a></div>
+						<div class="nav__links-item"><a href="sobre">Informações</a></div>	
+						<div class="nav__links-item"><a href="download">Download</a></div>
+						<div class="nav__links-item"><a href="https://pwcristal.realmguard.com/cadastro">Criar conta</a></div>
+						<div class="nav__links-item bg-custom"><a href="https://pwcristal.realmguard.com/login">Painel do Jogador</a></div>
+						<div class="nav__links-item">
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<header class="header">
+			<div class="content-area flex-ss">
+				<div class="header__col flex-cc">
+					<a href="index.html" class="header__logo"><img src="images/logo.png" alt=""></a>
+					<div class="header__accounts">Abertura Oficial:<span style="color:rgb(41, 71, 149);"> 08.03.2024</span></div>
+					<div class="header__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+					<div class="header__online2">RATE MÉDIA <span>- 1.7.2</span></div>
+										<div class="header__online2">Jogue com os equipamentos Nirvana e com classes até guardiões</span></div>
+					<!--<div class="header__traders">Offline Traders: <span>0</span></div>!-->
+					<a href="download.html" class="header__button flex-cc">
+						<img src="images/button_bg.png" alt="">
+						<span>DOWNLOAD</span>
+					</a>
+					<a href="https://pwcristal.realmguard.com/cadastro" class="header__button flex-cc">
+						<img src="images/button_bg.png" alt="">
+						<span>REGISTRO</span>
+					</a>
+				</div>
+			</div>
+		</header>
+
+		<section class="main-content">
+			<section class="inner-page">
+				<div class="content-area">
+					<div class="inner-page__content">
+						<div class="inner-page__title">
+							INFORMAÇÕES SOBRE NOSSO SERVIDOR
+							<span>Perfect World Cristal - Versão 1.7.2</span>
+						</div>
+						
+						<div class="htc-block htc-1">
+							<div class="row">
+								<div class="col-md-4">							  
+									<div class="list-group" id="list-tab" role="tablist">
+										<a class="list-group-item list-group-item-action active d-flex" id="list-gerais-list" data-bs-toggle="list" href="#list-gerais" role="tab" aria-controls="list-gerais">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/XP.png" alt="XP">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">GERAIS</span>
+												<p >Rates e básicos do servidor</p>
+											</div>
+										</a>
+										<a class="list-group-item list-group-item-action d-flex" id="list-aventuras-list" data-bs-toggle="list" href="#list-aventuras" role="tab" aria-controls="list-aventuras">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/BAÚ.png" alt="BAÚ">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">AVENTURAS</span>
+												<p >Missões diárias do servidor</p>
+											</div>
+										</a>
+										<a class="list-group-item list-group-item-action d-flex" id="list-missoes-list" data-bs-toggle="list" href="#list-missoes" role="tab" aria-controls="list-missoes">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/LIVRO.png" alt="LIVRO">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">MISSÕES PADRÕES</span>
+												<p>Pedra doida, VM e token</p>
+											</div>
+										</a>
+										<a class="list-group-item list-group-item-action d-flex" id="list-casamento-list" data-bs-toggle="list" href="#list-casamento" role="tab" aria-controls="list-casamento">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/COROA.png" alt="COROA">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">KIT INICIAL</span>
+												<p >Benefícios e missões</p>
+											</div>
+										</a>
+										<a class="list-group-item list-group-item-action d-flex" id="list-fiscal-list" data-bs-toggle="list" href="#list-fiscal" role="tab" aria-controls="list-fiscal">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/ESPADA.png" alt="ESPADA">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">FISCAL DE PRESENÇA</span>
+												<p >Como funciona e recompensas</p>
+											</div>
+										</a>
+										<a class="list-group-item list-group-item-action d-flex" id="list-sacola-list" data-bs-toggle="list" href="#list-sacola" role="tab" aria-controls="list-sacola">
+											<div class="image__div d-flex justify-content-center align-items-center">
+												<img class="image__on__div" src="images/icons/MOEDA.png" alt="MOEDA">
+											</div>
+											<div class="w-auto ms-3">
+												<span class="header__online2__left fw-bold">BAÚ DOURADO</span>
+												<p >Ganhe itens a cada 10 níveis (A partir do nível 40)</p>
+											</div>
+										</a>
+									</div>
+								</div>							  
+								<div class="col-md-8 mt-md-0 mt-3">
+									<div class="tab-content" id="nav-tabContent">
+									  <div class="tab-pane fade show active" id="list-gerais" role="tabpanel" aria-labelledby="list-gerais-list">
+										Servidor rate média na versão 1.7.2 - 5 raças e 10 classes<br />
+										<br />
+										Equipamentos Nirvana UP2 e Rank 8 UP1<br />
+										Pedras Máximas Nível 11 e Pérola de refino +10<br />
+										5 Raças e 10 Classes ao total<br />
+										Equipamentos Dusk e Molde 90 serão totalmente grátis<br />
+										<br />
+										Ao iniciar o jogador começará no Nível 30.<br />
+										O jogador começará com o cultivo 29 na missão “As Esperanças do General Lothor Akre”<br />
+										<br />
+										<b>Rates do Servidor:</b><br />
+										<br />
+										Mobs: 8 vezes<br />
+										Alma: 10 vezes<br />
+										Moedas: 2 vezes<br />
+										Drop: 1 vez<br />
+										<br />
+										Missões: 2 vezes<br />
+										Alma de Missões: 10 vezes<br />
+										Moedas de Missões: 1 vez<br />
+									  </div>
+									  <div class="tab-pane fade" id="list-aventuras" role="tabpanel" aria-labelledby="list-aventuras-list">
+										Todas as missões serão entregues automaticamente ao estar no nível.<br />
+										Essas missões serão chamadas de “Jornada”, confira:<br />
+										<br />
+										<b>Jornada I. - Nv. 30 ao Nv. 39</b><br />
+										Eliminar 5 Tronco Malignos<br />
+										Eliminar 5 Rinoceronte de Pedra<br />
+										Eliminar 5 Carniçal Violento<br />
+										<br />
+										135.000 de XP + 15.000 Moedas + 80.000 de Alma e 50 de Fama<br />
+										<br />
+										<b>Jornada II. - Nv. 40 ao Nv. 49</b><br />
+										Eliminar o Lobo-Rei de Hades<br />
+										Eliminar o Fang Qingzi<br />
+										Eliminar 5 Esqueleto Espectral<br />
+										<br />
+										198.000 de XP + 36.000 Moedas + 100.000 de Alma e 100 de Fama<br />
+										1 Pedra Imortal<br />
+										1 Coral da Sorte<br />
+										<br />
+										<b>Jornada III. - Nv. 50 ao Nv. 59</b><br />
+										Eliminar o Campeão dos Tigres<br />
+										Eliminar o Campeão dos Dragões<br />
+										Eliminar o Campeão dos Leões<br />
+										<br />
+										268.000 de XP + 58.000 Moedas + 140.000 de Alma e 150 de Fama<br />
+										2 Pedra Imortal<br />
+										2 Coral da Sorte<br />
+										1 Pacote de Recursos<br />
+										<br />
+										<b>Jornada IV. - Nv. 60 ao Nv. 69</b><br />
+										Eliminar a Cobra-Rei Draco<br />
+										Eliminar o Gorila-rei de Fogo<br />
+										Eliminar o Sentinela Imortal<br />
+										<br />
+										324.000 de XP + 90.000 Moedas + 160.000 de Alma e 200 de Fama<br />
+										3 Pedra Imortal<br />
+										3 Coral da Sorte<br />
+										2 Pacote de Recursos<br />
+										<br />
+										<b>Jornada V. - Nv. 70 ao Nv. 79</b><br />
+										Eliminar o Traidor Yanxu<br />
+										Eliminar o Caçador de Almas<br />
+										Eliminar 5 Torre da Caveira<br />
+										<br />
+										456.000 de XP + 110.000 Moedas + 180.000 de Alma e 250 de Fama<br />
+										4 Pedra Imortal<br />
+										4 Coral da Sorte<br />
+										3 Pacote de Recursos<br />
+										<br />
+										<b>Jornada VI. - Nv. 80 ao Nv. 89</b><br />
+										Eliminar o Demônio com Cicatrizes<br />
+										Eliminar 10 Minotauro do Submundo<br />
+										Eliminar 10 Carniceiros<br />
+										Eliminar 10 Dilacerador de Alma<br />
+										Eliminar 10 Aranha Impiedosa<br />
+										<br />
+										525.000 de XP + 120.000 Moedas + 200.000 de Alma e 300 de Fama<br />
+										6 Pedra Imortal<br />
+										6 Coral da Sorte<br />
+										4 Pacote de Recursos<br />
+										6 Envelope Valioso<br />
+										<br />
+										<b>Jornada VII. - Nv. 90 ao Nv. 95</b><br />
+										Eliminar o Líder do Espírito Nervoso<br />
+										Eliminar o Macaco-Rei<br />
+										Eliminar o Raposa de Fogo<br />
+										Eliminar o Brahma<br />
+										<br />
+										754.000 de XP + 150.000 Moedas + 240.000 de Alma e 350 de Fama<br />
+										8 Pedra Imortal<br />
+										8 Coral da Sorte<br />
+										5 Pacote de Recursos<br />
+										8 Envelope Valioso<br />
+										<br />
+										<b>Jornada VII. - Nv. 96 ao Nv. 100</b><br />
+										Eliminar o General Demoníaco<br />
+										Eliminar o Demônio da Escuridão<br />
+										Eliminar o Beemonte<br />
+										<br />
+										794.000 de XP + 180.000 Moedas + 260.000 de Alma e 400 de Fama<br />
+										10 Pedra Imortal<br />
+										10 Coral da Sorte<br />
+										6 Pacote de Recursos<br />
+										10 Envelope Valioso<br />
+										<br />
+										<b>Jornada VIII. - Nv. 100+</b><br />
+										Eliminar o Corona Escuro<br />
+										Eliminar os Wu Mehan Mutante - Wu Hen Mutante<br />
+										Eliminar 15 Flor Espectral<br />
+										Eliminar o Líder do Espírito Nervoso<br />
+										<br />
+										1.214.000 de XP + 300.000 Moedas + 300.000 de Alma e 500 de Fama<br />
+										12 Pedra Imortal<br />
+										12 Coral da Sorte<br />
+										6 Pacote de Recursos<br />
+										10 Envelope Valioso<br />
+									  </div>
+									  <div class="tab-pane fade" id="list-missoes" role="tabpanel" aria-labelledby="list-missoes-list">
+										<h2 class="header__online2__left"><b>PEDRA DOIDA</b></h2>
+										 <br />
+										<b>Pedra Doida Nv. 40 ao 49</b><br />
+										EXP padrão + 20 de Fama<br />
+										<br />
+										<b>Pedra Doida Nv. 50 a 69</b><br />
+										EXP padrão + 30 de Fama + 1 Coral da Sorte<br />
+										<br />
+										<b>Pedra Doida Nv. 70 a 79</b><br />
+										EXP padrão + 50 de Fama + 2 Coral da Sorte + 1 Pacote de Recursos<br />
+										<br />
+										<b>Pedra Doida Nv. 80 a 89</b><br />
+										EXP padrão + 100 de Fama + 2 Coral da Sorte + 2 Pacote de Recursos<br />
+										<br />
+										<b>Pedra Doida Nv. 90 a 99</b><br />
+										EXP padrão + 120 de Fama + 3 Coral da Sorte + 2 Pacote de Recursos<br />
+										<br />
+										<b>Pedra Doida Nv. 100 a 105</b><br />
+										EXP padrão + 150 de Fama + 3 Coral da Sorte + 3 Pacote de Recursos<br />
+										<br />
+										<hr>
+										<br />
+										<h2 class="header__online2__left"><b>CASTIGO E LOUVOR</b></h2>
+										<br />
+										<b>Castigo e Louvor - Nv. 85 a 89 - Serão apenas 30 minutos</b><br />
+										Recompensas: 80 de Fama + 82.000 de EXP + 1 Coral da Sorte<br />
+										<br />
+										<b>Castigo e Louvor - Nv. 90 a 94 - Serão apenas 30 minutos</b><br />
+										Recompensas: 200 de Fama + 122.000 de EXP + 1 Coral da Sorte<br />
+										<br />
+										<b>Castigo e Louvor - Nv. 95 ao 99 Céu e Inferno - Serão apenas 30 minutos</b><br />
+										Recompensas: 500 de Fama + 218.000 de EXP + 2 Coral da Sorte + 60.000 moedas<br />
+										<br />
+										<hr>
+										<br />
+										<h2 class="header__online2__left"><b>VOLTA AO MUNDO</b></h2>
+										<br />
+										<b>Broche Torto, Volta ao Mundo Nv. 70-79</b><br />
+										Recompensas: 397 500 de Exp, 30 Pedras de Teleporte, 60.000 moedas, 79.500 de Alma, 2 Coral da Sorte<br />
+										<br />
+										<b>Broche Torto, Volta ao Mundo Nv. 80-89</b><br />
+										Recompensas: 708.000 de Exp, 30 Pedras de Teleporte, 100.000 moedas, 141.600 de Alma, 3 Coral da Sorte<br />
+										<br />
+										<b>Broche Torto, Volta ao Mundo Nv. 90-105</b><br />
+										Recompensas: 758.000 de Exp, 30 Pedras de Teleporte, 200.000 moedas, 208.500 de Alma, 4 Coral da Sorte<br />
+									  </div>
+									  <div class="tab-pane fade" id="list-casamento" role="tabpanel" aria-labelledby="list-casamento-list">
+									  	Ao iniciar o jogador começará no Nível 30 com cultivo iniciando no General Lothor Akre na missão “As Esperanças do General Lothor Akre” (Harmonioso), além disso o jogador receberá um Pacote Iniciante incrível para ajudar em sua nova jornada no servidor.<br />
+									  	<br />
+										Escolha seu Vôo 3.33 - 4.00 (7 dias)<br />
+										Escolha sua montaria 9.0 (Raposa Lunar, Raposa Espiritual ou Raposa Carmesim)<br />
+										Equipamentos Iniciais com Refino +5 e Pedras Nv. 7<br />
+										1 Pedra do Teleporte Tempestuoso (14 dias)<br />
+										100 Dublê de Corpo<br />
+										1 Atlas Geográfico<br />
+										1 Amuleto de Platina<br />
+										1 Hierograma de Platina<br />
+										100 Alto-Falantes<br />
+										Habilidade de Movimento até o nível 90<br />
+									  </div>
+									  <div class="tab-pane fade" id="list-fiscal" role="tabpanel" aria-labelledby="list-fiscal-list">
+										Presença Diária: 1 Cartão Presença; 5 Alto-Falantes; 2 Pílulas Místicas, 2 Pílulas Sagradas.<br />
+										<br />
+										Refino +5 (Preso) = 2 Cartão de Presença<br />
+										Refino +6 (Preso) = 5 Cartão de Presença<br />
+										Refino +7 (Preso) = 12 Cartão de Presença<br />
+										Martelo Perfeito = 6 Cartão de Presença<br />
+										2 de Gold Evento (Preso) = 3 Cartão de Presença<br />
+										5 de Gold Evento (Preso) = 5 Cartão de Presença<br />
+										Hierograma de Platina = 2 Cartão de Presença<br />
+										Amuleto de Platina = 2 Cartão de Presença<br />
+										Cartão Imperial = 2 Cartão Presença<br />
+										100 Pedra Perfeita = 1 Cartão de Presença<br />
+										2 Coral da Sorte = 2 Cartão de Presença<br />
+										1 Montaria Exclusiva 10.0 = 60 Cartão de Presença<br />
+										10 Pílulas Mágicas = 2 Cartão de Presença<br />
+										10 Pílulas Místicas = 2 Cartão de Presença<br />
+									  </div>
+									  <div class="tab-pane fade" id="list-sacola" role="tabpanel" aria-labelledby="list-sacola-list">
+									  	Nv. 40 = 1 Pergaminho de Treino e 1 Emoji de Tigre (7 dias)<br />
+										Nv. 60 = 10 Pílulas Místicas e 10 Pílulas Mágicas<br /> 
+										Nv. 70 = 1 Refino +6, 1 Refino +7<br />
+										Nv. 75 = 200 Casquinha de Siri + 200 Bolinho de Arroz + 3 Oráculo Lv. 8<br />
+										Nv. 80 = Autopot (7 dias) + 100 Dublê de Corpo + Livro de Crítico 1%<br />
+										Nv. 85 = 1 Pergaminho de Treino,1 Lojinha de Dragão (7 dias)<br />
+										Nv. 90 = 1 Refino +8, 20 Pedras Imortais e 1 Mensageiro<br />
+										Nv. 95 = 500 de Fama no Personagem + 25 Pílulas Místicas e 25 Mágicas<br />
+										Nv. 100 = 1 Baú de Moedas + 20 Capítulo de Abertura Celestial; (30) Páginas Mística<br />
+									  </div>
+									</div>
+								</div>
+							</div>					
+						</div>
+					</div>
+				</div>
+			</section>
+		</section>
+		
+		<footer class="footer">
+			<div class="content-area flex-sbs">
+
+				<div class="footer__cpr flex-ss">
+					<div class="footer__cpr-logo flex-cc"><img src="images/footer_logo.png" alt=""></div>
+					<div class="footer__cpr-info">
+						<div class="footer__cpr-title"><a href="/">Perfect World Cristal © 2024</a></div>
+						<div class="footer__cpr-text">
+							<p>O projeto foi criado para utilização em regime de teste e não representa o site oficial. Todos os direitos preservados pelos detentores.
+						</div>
+					</div>
+				</div>
+
+				<div class="footer__nav">
+					<div class="footer__nav-item"><a href="https://pwcristal.realmguard.com/cadastro">Criar conta</a></div>
+					<div class="footer__nav-item"><a href="sobre">Informações</a></div>
+					<div class="footer__nav-item"><a href="download">Download</div>
+				</div>
+
+			</div>
+		</footer>
+	</div>
+	<!-- END WRAPPER -->
+
+	<!-- PROMO VIDEO -->
+	<div class="video-bg flex-cc">
+		<div class="video-bg__navigation flex-cc">
+			<div class="video-bg__cancel flex-cc"><img src="images/cancel_icon.png" alt=""></div>
+		</div>
+		
+		<div class="video-bg__box"></div>
+	</div>
+	<!-- END PROMO VIDEO -->
+
+	<!-- SCRIPTS -->
+	<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="css/jquery.min.js"></script>
+	<script src="css/navigation.js"></script>
+	<script src="css/lang-switch.js"></script>
+	<script src="css/swiper.js"></script>
+	<script src="css/MVisionToggleClass.js"></script>
+	<script src="css/scripts.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	<!-- END SCRIPTS -->
+
+
+</body>
+</html>

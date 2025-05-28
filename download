@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="br">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	<!-- CHARSET -->
+		
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- FAVICON -->
+	<link href="images/favicon.png" rel="shortcut icon" type="image/png">
+
+	<!-- keywords -->
+	<meta name="keywords" content="Perfect World, pw server, pw 1.3.6, pw 136, theclassic, theclassicpw, pw, pw history, pw rate media, pw com nirvana, pwbr, levelup, lug, thepw, pw shadow">
+
+	<!-- DESCRIPTION -->
+	<meta name="description" content="Bem-vindo ao Perfect World Cristal, o melhor rate média da atualidade, com equipamentos nirvana UP2 e 5 raças disponiveis, jogue na versão 1.7.2">
+
+	<!-- TITLE -->
+	<title>Perfect World Cristal - 1.7.2</title>
+
+	<!-- STYLE -->
+	<link rel="stylesheet" href="css/fontawesome.css" type="text/css">
+	<link rel="stylesheet" href="css/swiper.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+
+</head>
+<body>
+
+	<!-- WRAPPER -->
+	<div class="wrapper">
+
+		<div class="header-bg">
+			<div class="header-bg__front"></div>
+
+			<div class="header-bg__navigation content-area"></div>
+
+			
+			<div class="header-bg__smokes">
+				<div class="header-bg__smoke smoke_3"></div>
+				<div class="header-bg__smoke smoke_4"></div>
+			</div>
+			
+
+			<div class="header-bg__sparks left">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+
+			<div class="header-bg__sparks center">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+
+			<div class="header-bg__sparks right">
+				<div class="header-bg__sparks-spark-1"></div>
+				<div class="header-bg__sparks-spark-2"></div>
+				<div class="header-bg__sparks-spark-3"></div>
+				<div class="header-bg__sparks-spark-4"></div>
+			</div>
+		</div>
+
+		<nav class="nav">
+			<div class="content-area flex-sc">
+				
+				<div class="nav__open-links">
+					<div class="nav__open-links-item"></div>
+				</div>
+
+				<div class="nav__links flex-sbc">
+					<div class="nav__links-group flex-sc">
+						<div class="nav__links-item"><a href="/">Inicio</a></div>
+						<div class="nav__links-item"><a href="https://discord.gg/u3n6WAAkh4">Discord</a></div>
+						<div class="nav__links-item"><a href="sobre">Informações</a></div>	
+						<div class="nav__links-item"><a href="download">Download</a></div>
+						<div class="nav__links-item"><a href="https://pwcristal.realmguard.com/cadastro">Criar conta</a></div>
+						<div class="nav__links-item bg-custom"><a href="https://pwcristal.realmguard.com/login">Painel do Jogador</a></div>
+						<div class="nav__links-item">
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<header class="header">
+			<div class="content-area flex-ss">
+				<div class="header__col flex-cc">
+					<a href="/" class="header__logo"><img src="images/logo.png" alt=""></a>
+					<div class="header__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+					<div class="header__online">RATE MÉDIA <span>- 1.7.2</span></div>
+										<div class="header__online2">Jogue com os equipamentos Nirvana e com classes até guardiões</span></div>
+				</div>
+			</div>
+		</header>
+
+		<section class="main-content">
+			<section class="inner-page">
+				<div class="content-area">
+					<div class="inner-page__content">
+						<div class="inner-page__title">
+							COMO COMEÇAR A JOGAR?
+							<span>Um guia detalhado de 5 etapas para um início bem-sucedido.</span>
+						</div>
+						<div class="htc-block htc-1">
+							<div class="htc-block__title flex-cc">
+								<div class="htc-block__title-step flex-cc">PASSO #1</div>
+								<div class="htc-block__title-text">REGISTRO DE CONTA</div>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/bg/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								Para acessar o jogo, você precisa registrar uma conta no Painel do Jogador.
+							</div>
+							<a href="https://pwcristal.realmguard.com/cadastro" class="light-button red flex-cc create-account"><span>Criar Conta</span></a>
+						</div>
+						<div class="htc-block htc-2" id="download">
+							<div class="htc-block__title flex-cc">
+								<div class="htc-block__title-step flex-cc">PASSO #2</div>
+								<div class="htc-block__title-text">DOWNLOAD DO CLINTE</div>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/bg/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								Baixe o cliente do jogo da maneira conveniente para você.
+							</div>
+							<div class="htc-block__buttons flex-cc">
+								<a href="https://drive.google.com/file/d/1o_ThyjBSNPERffAxajlSm_AeaeF1-yu1/view" class="light-button green flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>TORRENT</span>
+								</a>
+								<a href="https://drive.google.com/file/d/19RzWE90iAQdaOzMl8TRZ2EZEQfGLJM7a/view?usp=sharing" class="light-button blue flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>Google Drive 1</span>
+								</a>
+								<a href="https://drive.google.com/file/d/1VjgyKP_h4o8HzDsrQXjZuWDGU-5F7Krs/view" class="light-button orange flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>Google Drive 2</span>
+								</a>
+								<a href="http://link.pwcristal.com/downloads/Perfect%20World%20Cristal%20172%20v5.zip" class="light-button red flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>LINK Direto</span>
+								</a>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+							<div class="htc-block__system flex-sbs">
+								<div class="htc-block__system-title">Requisitos de Sistema</div>
+								<div class="htc-block__system-box">
+									<div class="htc-block__system-box-title">Mínimo:</div>
+									<div class="htc-block__system-box-line"><span>Sistema operacional:</span> Windows 7;</div>
+									<div class="htc-block__system-box-line"><span>Processador:</span> 1 GHz;</div>
+									<div class="htc-block__system-box-line"><span>RAM:</span> 4 GB;</div>
+									<div class="htc-block__system-box-line"><span>Placa de Vídeo:</span> 128 Mb;</div>
+									<div class="htc-block__system-box-line"><span>Disco Rígido:</span> 25 GB;</div>
+									<div class="htc-block__system-box-line"><span>Internet:</span> 64 Kbps.</div>
+								</div>
+								<div class="htc-block__system-box">
+									<div class="htc-block__system-box-title">Recomendado:</div>
+									<div class="htc-block__system-box-line"><span>Sistema operacional:</span> Windows 7;</div>
+									<div class="htc-block__system-box-line"><span>Processador:</span> 2.5 GHz;</div>
+									<div class="htc-block__system-box-line"><span>RAM:</span> 8 GB;</div>
+									<div class="htc-block__system-box-line"><span>Placa de Vídeo:</span> 256 Mb;</div>
+									<div class="htc-block__system-box-line"><span>Disco Rígido:</span> 30 GB;</div>
+									<div class="htc-block__system-box-line"><span>Internet:</span> 256 Kbps.</div>
+								</div>
+							</div>
+						</div>
+						<div class="htc-block htc-3">
+							<div class="htc-block__title flex-cc">
+								<div class="htc-block__title-step flex-cc">PASSO #3</div>
+								<div class="htc-block__title-text">Instalando o jogo</div>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								Extraia o cliente completo do jogo em um lugar conveniente para você como a área de trabalho.
+								<p><b>Localize o cliente completo, e abra pela pasta Patcher com o arquivo patcher.exe</b></p>
+								Após isso atualize o jogo normalmente e se necessário verifique o cliente.
+								Se o cliente for baixado como um arquivo, use o WinRAR ou 7zip para descompactar os arquivos.
+							</div>
+							<div class="htc-block__buttons flex-cc">
+								<a href="https://www.win-rar.com/" class="light-button blue flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>DOWNLOAD WINRAR</span>
+								</a>
+								<a href="https://www.7-zip.org/" class="light-button red flex-cc">
+									<img src="images/btn_download_light_icon.png" alt="">
+									<span>DOWNLOAD 7ZIP</span>
+								</a>
+							</div>
+						</div>
+						<div class="htc-block htc-4">
+							<div class="htc-block__title flex-cc">
+								<div class="htc-block__title-step flex-cc">PASSO #4</div>
+								<div class="htc-block__title-text">Checar os drivers</div>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								Para que o cliente do jogo funcione corretamente, a placa de vídeo e os drivers DirectX mais recentes devem estar instalados em seu computador.
+							</div>
+							<div class="htc-block__buttons flex-cc">
+								<a href="https://www.nvidia.com/" class="light-button green flex-cc">
+									<span>NVIDIA GEFORCE</span>
+								</a>
+								<a href="https://www.microsoft.com/" class="light-button blue flex-cc">
+									<span>DIRECTX</span>
+								</a>
+								<a href="https://www.amd.com/" class="light-button red flex-cc">
+									<span>AMD RADEON</span>
+								</a>
+							</div>
+						</div>
+						<div class="htc-block htc-5">
+							<div class="htc-block__title flex-cc">
+								<div class="htc-block__title-step flex-cc">PASSO #5</div>
+								<div class="htc-block__title-text">PRONTO, VAMOS JOGAR</div>
+							</div>
+							<div class="htc-block__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								O cliente do jogo é iniciado através de um atalho na área de trabalho ou do arquivo Patcher.exe, se necessário, o cliente será atualizado automaticamente para o atual, desejamos boa sorte na sua nova jornada.
+							</div>	
+							<div class="htc-block__sep flex-cc"><img src="images/sep_bg.png" alt=""></div>
+							<div class="htc-block__text text-box">
+								Caso tenha dúvidas entre em contato via ticket com a equipe do servidor no discord.
+							</div>
+							<div class="htc-block__buttons flex-cc">
+								<a href="https://discord.gg/u3n6WAAkh4" class="light-button red flex-cc">
+									<span>ACESSAR DISCORD</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</section>
+		
+		<footer class="footer">
+			<div class="content-area flex-sbs">
+
+				<div class="footer__cpr flex-ss">
+					<div class="footer__cpr-logo flex-cc"><img src="images/footer_logo.png" alt=""></div>
+					<div class="footer__cpr-info">
+						<div class="footer__cpr-title"><a href="/">Perfect World Cristal © 2024</a></div>
+						<div class="footer__cpr-text">
+							<p>O projeto foi criado para utilização em regime de teste e não representa o site oficial. Todos os direitos preservados pelos detentores.
+						</div>
+					</div>
+				</div>
+
+				<div class="footer__nav">
+					<div class="footer__nav-item"><a href="https://pwcristal.realmguard.com/cadastro">Criar conta</a></div>
+					<div class="footer__nav-item"><a href="sobre">Informações</a></div>
+					<div class="footer__nav-item"><a href="download">Download</div>
+				</div>
+
+			</div>
+		</footer>
+	</div>
+	<!-- END WRAPPER -->
+
+	<!-- PROMO VIDEO -->
+	<div class="video-bg flex-cc">
+		<div class="video-bg__navigation flex-cc">
+			<div class="video-bg__cancel flex-cc"><img src="images/cancel_icon.png" alt=""></div>
+		</div>
+		
+		<div class="video-bg__box"></div>
+	</div>
+	<!-- END PROMO VIDEO -->
+
+	<!-- SCRIPTS -->
+	<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="css/jquery.min.js"></script>
+	<script src="css/navigation.js"></script>
+	<script src="css/lang-switch.js"></script>
+	<script src="css/swiper.js"></script>
+	<script src="css/MVisionToggleClass.js"></script>
+	<script src="css/scripts.js"></script>
+	<!-- END SCRIPTS -->
+
+
+</body>
+</html>
